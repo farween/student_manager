@@ -41,9 +41,3 @@ Save the files into a folder, for example: `student_gui_manager/`
 
 ```bash
 python student_gui.py
-👩‍💻 Author
-Kasifa Farween M
-Pre-final year ECE student passionate about combining software & hardware for real-world solutions.
-
-📜 License
-This project is open for educational and personal use. Feel free to modify and build upon it.
